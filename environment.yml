@@ -1,0 +1,3 @@
+name: redfin_env
+channels:
+  - defaults
