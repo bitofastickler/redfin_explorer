@@ -25,6 +25,5 @@ This app is designed for quick local analysis: download a Redfin CSV, point the 
 
 ## Screenshots
 
-md
 <img width="1871" height="907" alt="image" src="https://github.com/user-attachments/assets/6512b1ba-2d40-4774-ab58-e39d66025d82" />
 
